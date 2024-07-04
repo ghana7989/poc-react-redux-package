@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "my-react-library": {
+      "signature": "c4fca9a3ece7c38f22f6bce2606f1920",
+      "file": true
+    }
+  }
+}
